@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Non Thammasorn
 
-<!--
-**noonzx2552/noonzx2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer and Cybersecurity Enthusiast from Rayong, Thailand.
 
-Here are some ideas to get you started:
+I am a student at Rayongwittayakom School with a strong passion for building innovative software solutions. I enjoy turning ideas into real-world applications while continuing to grow in AI, Cybersecurity, and Game Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Build practical full-stack applications, from UI/UX and frontend interactions to backend APIs, databases, and deployment-ready systems.
+- Solve CTF challenges across web, crypto, reverse, and pwn to strengthen offensive security skills and real-world problem solving.
+- Explore projects that combine software, design, and interactive experiences.
+
+## Tech stack
+
+`Python` `C` `C++` `C#` `JavaScript` `React` `Kotlin` `PHP` `MySQL` `Unity` `Blender` `Figma` `Raspberry Pi`
+
+## My journey in tech
+
+- `2020` Started building web applications with both frontend and backend technologies.
+- `2024` Expanded into graphic design, UI concepts, and digital asset creation.
+- `2025` Began competing in CTF challenges focused on offensive security and analytical thinking.
+
+## Contact
+
+- Email: [thammasorn.chen@gmail.com](mailto:thammasorn.chen@gmail.com)
+- GitHub: [noonzx2552](https://github.com/noonzx2552)
+- Facebook: [thammasorn.chen](https://www.facebook.com/thammasorn.chen)
+- Instagram: [dontknowuser_alpha](https://www.instagram.com/dontknowuser_alpha)
+- Discord: [698520080979591258](https://discord.com/users/698520080979591258)

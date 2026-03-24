@@ -9,19 +9,6 @@ I enjoy turning ideas into real-world applications while continuing to grow in *
 
 ---
 
-# 🚀 What I Do
-
-🧩 **Full-Stack Development**  
-Build practical applications from UI/UX and frontend interactions to backend APIs, databases, and deployment-ready systems.
-
-🛡 **Cybersecurity / CTF**  
-Solve CTF challenges across **Web, Crypto, Reverse, and Pwn** to strengthen offensive security skills.
-
-🎮 **Creative Tech Projects**  
-Explore projects combining **software, design, and interactive experiences.**
-
----
-
 # 🛠 Tech Stack
 
 ## Programming Languages
@@ -86,19 +73,6 @@ Explore projects combining **software, design, and interactive experiences.**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-# 📈 My Journey in Tech
-
-📅 **2020**  
-Started building web applications with both frontend and backend technologies.
-
-🎨 **2024**  
-Expanded into graphic design, UI concepts, and digital asset creation.
-
-🏴‍☠️ **2025**  
-Began competing in **CTF challenges** focused on offensive security and analytical thinking.
 
 ---
 

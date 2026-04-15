@@ -7,10 +7,10 @@
 
 ## 📊 GitHub Stats
 
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=noonzx2552&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<!-- <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=noonzx2552&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /> -->
 <img width="49%" height="195" src="https://streak-stats.demolab.com?user=noonzx2552&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonzx2552&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&card_width=330" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonzx2552&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&card_width=330" /> -->
 
 ---
 
